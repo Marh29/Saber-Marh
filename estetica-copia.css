@@ -1,0 +1,119 @@
+h1
+{
+	color: red;
+	font-family: Century Gothic;
+}
+
+.titulo
+{
+	font-family: Quicksand;
+	font-size: 150px;
+	color: grey;
+	align-self: center;
+	text-align: center;
+}
+
+h2
+{
+	color: grey;
+	font-family: Maiandra GD;
+	align-content: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h3
+{
+	color: grey;
+	font-family: Quicksand;
+}
+
+p
+{
+	font-family: Megrim;
+	text-align: center;
+	vertical-align: center;
+	font-size: 65px;
+	font-weight: bolder;
+}
+
+a
+{
+	color: grey;
+	font-family: Maiandra GD;
+}
+
+img
+{
+	min-height:;
+	max-height: ;
+	min-width: ;
+	max-width: ;
+	margin-right: auto;
+	margin-left: auto;
+	margin: auto;
+	display: block;
+	width: 0px;
+}
+
+#solo
+{
+	margin-right: auto;
+	margin-left: auto;
+	margin: auto;
+	display: block;
+	width: 500px;
+	float: ;
+}
+
+#acompañado
+{
+	width: 180px;
+	float: ;
+}
+
+
+a.aspecto-boton
+{
+    background-color: white;
+    border: 3px solid grey;
+    border-radius:100px; 
+    color: grey;
+    font-family: Maiandra GD;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+a.aspecto-boton:hover 
+{
+	background-color:grey;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+a.boton-off-animación
+{
+    background-color: white;
+    border: 3px solid grey;
+    border-radius:100px; 
+    color: grey;
+    font-family: Maiandra GD;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+}
+a.boton-off-animación:hover 
+{
+	background-color:grey;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
